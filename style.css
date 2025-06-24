@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to bottom, rgb(154, 210, 233), rgb(255, 136, 0));
+    color: #004d40; /* verde escuro, da natureza australiana */
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: #ff6f00; /* laranja vibrante, cor do pôr-do-sol no deserto australiano */
+    font-size: 2.5em;
+  }
+  
+  #descricao {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  img {
+    margin-top: 30px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  }
+  
